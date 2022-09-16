@@ -3,7 +3,7 @@ module github.com/parthdesai/vault-plugin-secrets-solana
 go 1.17
 
 require (
-	github.com/gagliardetto/binary v0.6.1
+	github.com/gagliardetto/binary v0.7.1
 	github.com/gagliardetto/solana-go v1.4.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-hclog v1.0.0
